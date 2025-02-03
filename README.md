@@ -20,12 +20,12 @@ pip install -r requirements.txt
 Run the main script to execute the control strategies:
 
 1. **Open-Loop Control**:
-```python
+```bash
 python scripts/projectOpenLoop_Final.py 
 ```
 
 2. **Closed-Loop Control**:
-```python
+```bash
 python scripts/projectMPC_Final.py 
 ```
 
