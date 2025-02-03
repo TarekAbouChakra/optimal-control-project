@@ -5,29 +5,29 @@ This project demonstrates optimal control strategies for stabilizing a 2DOF inve
 ## Installation
 
 1. **Clone the repository**:
-    ```bash
-    https://github.com/TarekAbouChakra/optimal-control-project.git
-    cd optimal-control-project
-    ```
+```bash
+https://github.com/TarekAbouChakra/optimal-control-project.git
+cd optimal-control-project
+```
 
 2. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
 Run the main script to execute the control strategies:
 
 1. **Open-Loop Control**:
-    ```python
-    python scripts/projectOpenLoop_Final.py 
-    ```
+```python
+python scripts/projectOpenLoop_Final.py 
+```
 
 2. **Closed-Loop Control**:
-    ```python
-    python scripts/projectMPC_Final.py 
-    ```
+```python
+python scripts/projectMPC_Final.py 
+```
 
 ## Results
 
